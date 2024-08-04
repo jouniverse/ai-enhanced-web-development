@@ -1,2 +1,4 @@
 # Add gitignore file for .DS_Store
 .DS_Store
+# Add gitignore file for mov files
+*.mov
