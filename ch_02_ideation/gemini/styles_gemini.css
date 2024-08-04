@@ -1,0 +1,108 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}
+
+nav {
+  background-color: #e0e0e0;
+  padding: 10px;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+nav li {
+  margin: 0 10px;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+}
+
+main {
+  padding: 20px;
+}
+
+.hero {
+  text-align: center;
+  padding: 40px 0;
+}
+
+.hero img {
+  width: 70%;
+  max-width: 600px;
+  display: block;
+  margin: 0 auto;
+}
+
+.hero h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 1.2em;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+.hero a {
+  background-color: #333;
+  color: white;
+  padding: 10px 20px;
+  margin: 0 10px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background-color 0.3s ease;
+}
+
+.hero a:hover {
+  background-color: #222;
+}
+
+.about {
+  margin-top: 40px;
+}
+
+.about h2 {
+  font-size: 1.8em;
+  margin-bottom: 20px;
+}
+
+.about p {
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+.about a {
+  background-color: #ddd;
+  color: black;
+  padding: 10px 20px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background-color 0.3s ease;
+}
+
+.about a:hover {
+  background-color: #ccc;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
