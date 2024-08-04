@@ -1,4 +1,4 @@
-# Add gitignore file for .DS_Store
+# Add gitignore for .DS_Store
 .DS_Store
-# Add gitignore file for mov files
+# Add gitignore for mov files
 *.mov
