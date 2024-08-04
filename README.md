@@ -6,7 +6,7 @@ This repository contains extra materials for my bachelor's thesis **AI-enhanced 
 
 The materials include for example conversations with LLMs, AI-generated code examples, AI-generated assets and some figures from the study.
 
-The structure of the repository follows the chapters in the thesis:
+The structure of the repository follows the chapters of the thesis:
 
 - Ch 1 - Introduction
 - Ch 2 - Ideation
