@@ -17,6 +17,12 @@ The structure of the repository follows the chapters of the thesis:
 
 If you have any questions about the thesis, please contact the author.
 
+## Author
+
+![Me and hairy me](./imgs/me_and_hairy_mepng.png)
+
+The author of this study (or is it?) and a more hairy version of yours truly as reimagined by generative AI in Adobe Photoshop. AI me has also thinner cheeks.
+
 ## License
 
 CC-BY-4.0
