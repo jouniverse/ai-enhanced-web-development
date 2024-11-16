@@ -1,6 +1,6 @@
 # AI-enhanced Web Development
 
-This repository contains extra materials for my bachelor's thesis **AI-enhanced web development**.
+This repository contains extra materials for my bachelor's thesis [**AI-enhanced web development**](https://www.theseus.fi/handle/10024/866184)<sup>1</sup>.
 
 ## Contents
 
@@ -19,10 +19,14 @@ If you have any questions about the thesis, please contact the author.
 
 ## Author
 
-![Me and hairy me](./imgs/me_and_hairy_me.png)
+![Me and hairy me](./imgs/me_and_myself.png)
 
 The author of this study (or is it?) and a more hairy version of yours truly as reimagined by generative AI in Adobe Photoshop. The AI me has also thinner cheeks.
 
 ## License
 
 CC-BY-4.0
+
+---
+
+<sup>1</sup> [AI-enhanced web development podcast](https://youtu.be/3OEpuSz6YxQ)
